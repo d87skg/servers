@@ -1,0 +1,8 @@
+{
+  "name": "AES Runtime Security",
+  "description": "Runtime Firewall & Forensic Replay for AI Agents. Intercepts dangerous tool calls before execution. Blocks rm -rf, sudo, DROP TABLE, 20x leverage.",
+  "repository": "https://github.com/d87skg/aes-mcp",
+  "install": "pip install aes-mcp",
+  "category": "security",
+  "tags": ["security", "runtime", "firewall", "agent", "forensic", "replay"]
+}
